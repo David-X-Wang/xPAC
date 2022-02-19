@@ -1,4 +1,4 @@
-# Cross-regional Phase-Amplitude coupling (xPAC)
+# Cross-Regional Phase-Amplitude Coupling (xPAC)
 Cross-regional Phase-Amplitude coupling for hippocampal theta phase and cortical gamma amplitude. 
 
 Also inlcuded connectivity and functional measures:
